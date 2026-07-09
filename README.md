@@ -87,3 +87,5 @@ Nike's figures live in `BASE_COMPANIES` near the top of
 `components/FinancialDashboard.jsx`. To swap in a different default company,
 edit that object directly. Anything uploaded through the PDF upload button is
 extracted live and doesn't require touching the code.
+
+
